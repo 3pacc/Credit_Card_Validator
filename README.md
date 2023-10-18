@@ -16,9 +16,9 @@ Ce projet C++ est une application de vérification de numéros de carte de créd
 2. Compilez le programme C++ :
 
    ```bash
-   g++ main.cpp -o credit_checker
+   g++ main.cpp -o Credit_Card_Validator
 
 
 3. Exécutez le programme avec un numéro de carte de crédit à vérifier :
     ```bash
-    ./credit_checker <numero_de_carte>
+    ./Credit_Card_Validator <numero_de_carte>
