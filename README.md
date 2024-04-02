@@ -1,24 +1,24 @@
-(Algorithme de Luhn) - Projet C++
+# Luhn Algorithm - C++ Project
 
-Ce projet C++ est une application de vérification de numéros de carte de crédit en utilisant l'algorithme de Luhn. L'algorithme de Luhn est couramment utilisé pour valider les numéros de cartes de crédit et garantir leur validité.
+This C++ project is an application for verifying credit card numbers using the Luhn algorithm. The Luhn algorithm is commonly used to validate credit card numbers and ensure their validity.
 
-## Fonctionnalités
+## Features
 
-- Vérification de la validité d'un numéro de carte de crédit en utilisant l'algorithme de Luhn.
-- Affichage du résultat de la vérification (valide ou invalide).
-- Prise en charge des numéros de carte de crédit de différentes longueurs.
+- Verification of the validity of a credit card number using the Luhn algorithm.
+- Display of the verification result (valid or invalid).
+- Support for credit card numbers of different lengths.
 
-## Utilisation
+## Usage
 
-1. Clonez ce dépôt :
+1. Clone this repository:
    ```bash
-   git clone https://github.com/votre-utilisateur/Credit_Card_Validator.git
-2. Compilez le programme C++ :
+   git clone https://github.com/3pacc/Credit_Card_Validator.git
+2. Compile the C++ program:
 
    ```bash
    g++ main.cpp -o Credit_Card_Validator
 
 
-3. Exécutez le programme avec un numéro de carte de crédit à vérifier :
+3. Run the program with a credit card number to verify:
     ```bash
-    ./Credit_Card_Validator <numero_de_carte>
+    ./Credit_Card_Validator <credit_card_number>
