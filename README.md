@@ -10,7 +10,6 @@ This C++ project is an application for verifying credit card numbers using the L
 
 ## Usage
 
-
 1. Clone this repository:
    ```bash
    git clone https://github.com/3pacc/Credit_Card_Validator.git
