@@ -7,7 +7,7 @@ This C++ project is an application for verifying credit card numbers using the L
 - Verification of the validity of a credit card number using the Luhn algorithm.
 - Display of the verification result (valid or invalid).
 - Support for credit card numbers of different lengths.
-
+- 
 ## Usage
 
 1. Clone this repository:
